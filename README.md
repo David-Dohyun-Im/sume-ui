@@ -1,3 +1,5 @@
+Hi I'm David, the co-founder & ceo of Sume. we've love to chat about the npm org name "sume". Are you open to chat? please send an email to "david@sumelabs.com"!
+
 # 🌌 Sume UI
 
 **Sume ui** is a sleek, modern, and customizable component library built with React and Tailwind CSS. Designed for speed, accessibility, and developer experience, Astra helps you build consistent and beautiful user interfaces effortlessly.
